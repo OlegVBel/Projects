@@ -1,0 +1,30 @@
+.advantages {
+  padding: 80px 225px 80px 120px;
+}
+.advantages__container {
+  display: flex;
+  gap: 32px;
+  flex-direction: column;
+}
+.advantages__row{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 126px;
+}
+.advantages__activities-title {
+  margin-bottom: 24px;
+}
+.advantage__activities-img {
+  justify-self: end;
+  border-radius: 4px;
+}
+.advantage__food-img{
+  border-radius: 4px;
+}
+.advantage__food {
+  justify-self: end;
+}
+.advantages__food-title {
+  margin-bottom: 24px;
+}

@@ -1,0 +1,34 @@
+.hero {
+  padding: 80px 120px;
+}
+.hero__container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 24px;
+}
+.hero__title {
+  font-family: "Montserrat", sans-serif;
+  font-size: 48px;
+  letter-spacing: -0.01em;
+  font-weight: 600;
+  color: #192252;
+  margin-bottom: 24px;
+}
+.hero__text {
+  margin-bottom: 32px;
+}
+.hero__btn {
+  width: 155px;
+  height: 50px;
+}
+.hero__img-group {
+  display: flex;
+  gap: 25px;
+}
+.hero__img {
+  border-radius: 4px;
+}
+.hero__img-part2 {
+  padding-top: 80px;
+}

@@ -1,0 +1,76 @@
+.consult {
+  padding: 45px 0 66px;
+}
+.consult__columns {
+  display: flex;
+  justify-content: space-between;
+  gap: 30px;
+}
+.consult__title {
+  margin-bottom: 22px;
+}
+.consult__subtitle {
+  margin-bottom: 22px;
+}
+.consult__form {
+}
+.form {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px 0;
+}
+.form__name {
+  width: 270px;
+  height: 60px;
+  border: none;
+  box-shadow: 0px 4px 18px rgba(0, 0, 0, 0.08);
+  border-radius: 7px;
+  padding-left: 20px;
+  font-weight: 300;
+  font-size: 16px;
+}
+.form__tel {
+  width: 270px;
+  height: 60px;
+  border: none;
+  box-shadow: 0px 4px 18px rgba(0, 0, 0, 0.08);
+  border-radius: 7px;
+  justify-self: start;
+  padding-left: 20px;
+  font-weight: 300;
+  font-size: 16px;
+}
+.form__question {
+  width: 570px;
+  height: 140px;
+  grid-column: 1 / 3;
+  border: none;
+  box-shadow: 0px 4px 18px rgba(0, 0, 0, 0.08);
+  border-radius: 7px;
+  padding-left: 20px;
+  padding-top: 16px;
+  font-weight: 300;
+  font-size: 16px;
+}
+.form__data-processing {
+  grid-column: 1 / 3;
+  display: flex;
+  align-items: center;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 26px;
+  gap: 12px;
+}
+.form__data-checkbox{
+  width: 32px;
+  height: 32px;
+  border-radius: 2px;
+  box-shadow: 0px 4px 18px rgba(0, 0, 0, 0.08);
+  border: none;
+}
+.consult__columns-img {
+  height: 510px;
+  width: 570px;
+  border-radius: 20px;
+  box-shadow: 0px 4px 18px rgba(0, 0, 0, 0.08);
+}

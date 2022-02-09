@@ -1,0 +1,25 @@
+.hotel {
+  padding: 80px 120px;
+}
+.hotel__container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 120px;
+}
+.hotel__img {
+  border-radius: 4px;
+}
+.hotel__title {
+  margin-bottom: 25px;
+}
+.hotel__text-part1 {
+  margin-bottom: 15px;
+}
+.hotel__text-part2 {
+  margin-bottom: 32px;
+}
+.hotel__btn {
+  width: 150px;
+  height: 50px;
+}

@@ -1,0 +1,78 @@
+html {
+  box-sizing: border-box;
+  --black-color: #333333;
+  --white-color: #fff;
+}
+
+*,
+*::after,
+*::before {
+  box-sizing: inherit;
+}
+
+body {
+  min-width: 320px;
+  font-family: "Manrope", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  color: var(--black-color);
+  background-color: #F7F6FF;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+button {
+  cursor: pointer;
+  padding: 0;
+}
+
+input,
+textarea {
+  font-family: inherit;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+p {
+  margin: 0;
+}
+
+.container{
+  max-width: 1190px;
+  margin: 0 auto;
+}
+
+.btn {
+  color: var(--white-color);
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 26px;
+  width: 205px;
+  height: 55px;
+  background: linear-gradient(115.11deg, #F32C6D 10.12%, #CB1D95 100.01%);
+  transition: background 0.4s ease-in-out ;
+  border-radius: 9px;
+  border: none;
+  box-shadow: 0px 4px 18px rgba(0, 0, 0, 0.08);
+}
+.btn:hover{
+  background: linear-gradient(115.11deg, #da2d67 10.12%, #c92796 100.01%);
+  transition: background 0.4s ease-in-out ;
+  color: var(--white-color);
+}

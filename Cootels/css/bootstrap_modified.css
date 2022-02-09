@@ -1,0 +1,32 @@
+.carousel-indicators {
+  align-items: center;
+  margin-bottom: -34px;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.carousel-indicators [data-bs-target]{
+  width: 8px;
+  height: 8px;
+  background-color: #FAB047;
+  margin-right: 12px;
+  opacity: 0.35;
+  border-radius: 50%;
+  transition: width 0.24s ease-in-out, heigth .24s ease-in-out;
+}
+.carousel-indicators .active {
+  opacity: 1;
+  width: 12px;
+  height: 12px;
+  align-items: center;
+}
+.carousel-control-prev,
+.carousel-control-next  {
+  display: none;
+}
+
+.carousel-indicators [data-bs-target]:hover{
+  width: 12px;
+  height: 12px;
+  transition: width 0.24s ease-in-out, heigth .24s ease-in-out;
+}

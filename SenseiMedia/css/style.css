@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@300;400;500;600;700;800&display=swap');
+@import 'normalize.css';
+@import 'default.css';
+@import 'header.css';
+@import 'intro.css';
+@import 'about.css';
+@import 'services.css';
+@import 'consult.css';
+@import 'works.css';
+@import 'footer.css';
+
+.carousel-control-prev-icon{
+  background-image: url('../img/ArrowLeft.svg');
+  background-repeat: no-repeat;
+}
+
+.carousel-control-next-icon{
+  background-image: url('../img/ArrowRight.svg');
+  background-repeat: no-repeat;
+
+}

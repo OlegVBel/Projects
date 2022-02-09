@@ -1,0 +1,4 @@
+﻿  Realization.cpp
+D:\Олег\Program\C++\Practise1\Realization.cpp(71,14): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  CalcInterval.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Practise1.vcxproj -> D:\Олег\Program\C++\Practise1\Debug\Practise1.exe

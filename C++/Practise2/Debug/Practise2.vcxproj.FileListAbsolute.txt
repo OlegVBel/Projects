@@ -1,0 +1,4 @@
+D:\Олег\Program\C++\Practise2\Debug\Practise2.vcxprojAssemblyReference.cache
+D:\Олег\Program\C++\Practise2\Debug\Practise2.CalcIntegral.resources
+D:\Олег\Program\C++\Practise2\Debug\Practise2.vcxproj.GenerateResource.cache
+D:\Олег\Program\C++\Practise2\Debug\Practise2.exe

@@ -1,0 +1,62 @@
+.rooms {
+  padding: 80px 120px;
+}
+.rooms__container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.rooms__title {
+  margin-bottom: 24px;
+}
+.rooms__text {
+  margin-bottom: 32px;
+  text-align: center;
+}
+.rooms__btn {
+  width: 165px;
+  height: 50px;
+  margin-bottom: 90px;
+}
+.rooms__columns {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 24px;
+}
+.rooms__item {
+  flex: 0 1 33.333%;
+}
+.rooms__item-img {
+  border-radius: 4px;
+  margin-bottom: 32px;
+}
+.rooms__item-title {
+  font-family: "Montserrat", sans-serif;
+  margin-bottom: 16px;
+  font-weight: 600;
+  font-size: 24px;
+  color: #000000;
+}
+.rooms__item-text {
+  margin-bottom: 32px;
+}
+.rooms__item-details {
+  color: #424F7B;
+  position: relative;
+}
+.rooms__item-details::after {
+  content: "";
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  bottom: 0;
+  right: -30px;
+  transition: right 0.24s ease-in-out;
+  background-image: url("../img/Arrow_Right.svg");
+  background-repeat: no-repeat;
+}
+.rooms__item-details:hover::after {
+  right: -40px;
+  transition: right 0.24s ease-in-out;
+}

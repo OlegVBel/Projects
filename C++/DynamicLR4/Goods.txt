@@ -1,0 +1,7 @@
+Milk,42.48,0
+Bread,13.80,500
+Candies,29.56,600
+Meat,102.45,100
+Ice-cream,8.54,0
+Cheese,59.63,0
+Egg,2.05,10000

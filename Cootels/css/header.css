@@ -1,0 +1,28 @@
+.header {
+  padding: 35px 120px;
+}
+.header__container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 340px;
+}
+.header__nav-list {
+  display: flex;
+  justify-content: space-between;
+  gap: 32px;
+
+}
+.header__nav-item {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  color: #192252;
+}
+.header__btn {
+  width: 120px;
+  height: 45px;
+}
+.header__logo{
+  color: #192252;
+}

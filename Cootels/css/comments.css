@@ -1,0 +1,24 @@
+.comments {
+  padding: 80px 324px;
+}
+.comments__container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.comments__title {
+  margin-bottom: 62px;
+}
+.comments__person-img {
+  margin-bottom: 45px;
+}
+.comments__text {
+  margin-bottom: 40px;
+}
+.comments__person-name {
+  font-weight: 500;
+  font-size: 20px;
+  color: #192252;
+}

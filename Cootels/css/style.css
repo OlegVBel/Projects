@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&family=Montserrat:wght@600;700&display=swap');
+@import 'normalize.css';
+@import 'default.css';
+@import 'header.css';
+@import 'hero.css';
+@import 'hotel.css';
+@import 'advantages.css';
+@import 'rooms.css';
+@import 'choice.css';
+@import 'comments.css';
+@import 'footer.css';

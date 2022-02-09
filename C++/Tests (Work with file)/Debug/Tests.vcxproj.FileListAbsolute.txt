@@ -1,0 +1,2 @@
+D:\Олег\Program\C++\Tests\Debug\Tests.exe
+D:\Олег\#6Programs\University\C++\Tests\Debug\Tests.exe

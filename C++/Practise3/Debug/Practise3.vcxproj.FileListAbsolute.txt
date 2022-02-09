@@ -1,0 +1,4 @@
+D:\Олег\Program\C++\Practise3\Debug\Practise3.vcxprojAssemblyReference.cache
+D:\Олег\Program\C++\Practise3\Debug\Practise3.MatrixsList.resources
+D:\Олег\Program\C++\Practise3\Debug\Practise3.vcxproj.GenerateResource.cache
+D:\Олег\Program\C++\Practise3\Debug\Practise3.exe
